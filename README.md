@@ -1,2 +1,2 @@
 # CS-154-Homework
-Collection of 3 solo homework assignments in my Formal Languages and Computability class
+Collection of 3 solo homework assignments from my Formal Languages and Computability class
