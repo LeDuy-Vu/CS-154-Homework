@@ -1,2 +1,2 @@
 # CS-154-Homework
-Collection of 3 solo homework assignments from my Formal Languages and Computability class
+Use Turing machine to simulate Deterministic Finite Automata, Nondeterministic Finite Automata, and Nondeterministic Pushdown Automata to accept certain strings.
